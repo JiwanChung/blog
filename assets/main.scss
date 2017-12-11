@@ -1,0 +1,27 @@
+---
+# front matter not required
+---
+
+@import "minima";
+
+.icon--facebook > svg {
+    max-width: 10%;
+    max-height: 10%;        
+}
+
+.icon--gmail > svg {
+    max-width: 10%;
+    max-height: 10%;   
+}
+
+.social-media-list > li > a {
+    color: dimgray;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: dimgray
+}

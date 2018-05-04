@@ -38,6 +38,12 @@
                         {% include icon-facebook.html username=site.facebook_username %}
                     </li>
                     {% endif %}
+                    
+                    {% if site.jupyter %}
+                    <li>
+                            <a href="{{ site.jupyter }}">JUPYTER</a>
+                     </li>
+                    {% endif %}
                 </ul>
             </div>
         

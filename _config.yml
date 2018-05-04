@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://skaro94.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: fernwehtilldawn
+jupyter: https://147.46.219.202:7684/projects/lab
 
 # headers
 # header_pages:
